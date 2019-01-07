@@ -6,4 +6,4 @@ Install necessary modules with <code>pip install -r requirements.txt</code>
 
 Run with <code>python pong.py</code>
 
-Ideal conditions for palm recognition would be bright lighting with an same distribution of hue across the palm.
+Ideal conditions for palm recognition would be bright lighting with equal distribution of hue across the palm.
