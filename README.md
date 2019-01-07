@@ -1,4 +1,4 @@
-##PalmPong
+# PalmPong
 
 Implementation of Pong which uses image recognition with cascade classifiers which identify Haar-like features to detect your palm and use it as the paddle.
 
